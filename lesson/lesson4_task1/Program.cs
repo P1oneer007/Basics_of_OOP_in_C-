@@ -27,6 +27,7 @@ public class Building
 
     public int Height
     {
+
         get => _height;
         private set
         {
