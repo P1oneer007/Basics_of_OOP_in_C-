@@ -12,3 +12,4 @@ C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson4_task1\obj\Debug\
 C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson4_task1\obj\Debug\net8.0\lesson4_task1.pdb
 C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson4_task1\obj\Debug\net8.0\lesson4_task1.genruntimeconfig.cache
 C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson4_task1\obj\Debug\net8.0\ref\lesson4_task1.dll
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson4_task1\obj\Debug\net8.0\lesson4_task1.sourcelink.json

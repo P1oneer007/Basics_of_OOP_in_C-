@@ -1,0 +1,15 @@
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\bin\Debug\net8.0\lesson7_task1.exe
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\bin\Debug\net8.0\lesson7_task1.deps.json
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\bin\Debug\net8.0\lesson7_task1.runtimeconfig.json
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\bin\Debug\net8.0\lesson7_task1.dll
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\bin\Debug\net8.0\lesson7_task1.pdb
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\obj\Debug\net8.0\lesson7_task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\obj\Debug\net8.0\lesson7_task1.AssemblyInfoInputs.cache
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\obj\Debug\net8.0\lesson7_task1.AssemblyInfo.cs
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\obj\Debug\net8.0\lesson7_task1.csproj.CoreCompileInputs.cache
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\obj\Debug\net8.0\lesson7_task1.sourcelink.json
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\obj\Debug\net8.0\lesson7_task1.dll
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\obj\Debug\net8.0\refint\lesson7_task1.dll
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\obj\Debug\net8.0\lesson7_task1.pdb
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\obj\Debug\net8.0\lesson7_task1.genruntimeconfig.cache
+C:\Users\Valery\source\repos\Basics_of_OOP_in_C-\lesson\lesson7_task1\obj\Debug\net8.0\ref\lesson7_task1.dll
